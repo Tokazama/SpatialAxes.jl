@@ -1,0 +1,9 @@
+name = "SpatialAxes"
+uuid = "1c1790aa-4970-46f3-a7f9-87f9b3a09776"
+authors = ["Zachary P. Christensen <zchristensen7@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+AxisIndices = "f52c9ee2-1b1c-4fd8-8546-6350938c7f11"
+NamedDims = "356022a1-0364-5f58-8944-0da4b18d706f"
+StaticRanges = "d8176aec-3168-11e9-3c98-e3954798be3a"
